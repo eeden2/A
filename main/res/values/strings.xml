@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="connect_to_a_server">Connect to a Server</string>
+    <string name="enter_an_ip">Enter an IP:</string>
+    <string name="port">Enter a Port:</string>
+    <string name="enter_a_username">Enter a Username:</string>
+    <string name="message">Type a Message:</string>
+    <string name="connect">Connect</string>
+    <string name="v_1_0">V 1.0</string>
+    <string name="messages_here">Messages Here</string>
+    <string name="send">Send</string>
+</resources>
